@@ -89,5 +89,5 @@ def main():
 
     pcap.close()
 
-
-main()
+if __name__ == '__main__':
+    main()
